@@ -18,6 +18,6 @@ The SPI slave module can receive and transmit data in synchronization with an SP
 ---
 
 ## 📂 Project contents
-- **Documents** showing the full discrebtion of the specs, the testbench flow that is used and the results of the simulation of the Vavido, QuestaSim and QuestaLint
+- **Documents** showing the full discrebtion of the specs and the results of the simulation of the Vavido, QuestaSim and QuestaLint
 - **Verilog files** showing the design
 - **Do files** to run the design easier 
